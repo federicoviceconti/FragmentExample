@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fragment Example</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="list_map_position">List map position</string>
+    <string name="ok">ok</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_x">Add X</string>
+    <string name="add_y">Add Y</string>
+    <string name="insert_y_value">Insert Y value...</string>
+    <string name="insert_x_value">Insert X value...</string>
+    <string name="primary">Primary</string>
+    <string name="dark">Dark</string>
+    <string name="setting">Setting</string>
+    <string name="choose_primary">Choose primary</string>
+    <string name="choose">choose</string>
+    <string name="choose_primary_dark">Choose primary dark</string>
+    <string name="save_layout">Save layout</string>
+    <string name="preferences">com.example.personale.fragmentexample.PREFERENCES</string>
+    <string name="preferences_primary">com.example.personale.fragmentexample.PRIMARY</string>
+    <string name="preferences_dark">com.example.personale.fragmentexample.DARK</string>
+    <string name="preferences_accent">com.example.personale.fragmentexample.ACCENT</string>
+    <string name="choose_accent">Choose accent</string>
+    <string name="accent">Accent</string>
+    <string name="list_api_request">List api request</string>
+</resources>
